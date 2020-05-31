@@ -1,0 +1,7 @@
+git init ------ creates repositoty locally
+git status ----- to know the status
+git add <file name> ----- adds the current file to pipe line
+git commit ----- commits your changes to git
+git commit -m <"(Message)"> ----- commits your changes to git along with the message
+git add origin <url> ----- git hub's URL linkage with the local repository
+git push -u origin <branch name> ------ pushes your code to repository
